@@ -12,3 +12,9 @@
 
 Примеры эксплоатации:
 
+Исходный:
+
+```
+SELECT id, name, price FROM products WHERE id = 1;
+```
+
