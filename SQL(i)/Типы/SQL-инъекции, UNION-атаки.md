@@ -36,3 +36,6 @@ SELECT id, name, price FROM products WHERE id = 1;
 ?id=1 UNION SELECT NULL,NULL,NULL,NULL
 ```
 
+Мы скролим до тех пор, пока количество колонок не совпадет.
+Если будет больше - получим ошибку.
+
