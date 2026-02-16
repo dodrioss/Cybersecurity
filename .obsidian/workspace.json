@@ -11,10 +11,14 @@
             "id": "f1989f7e2131828c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL(i)/Знакомство с SQLi.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Знакомство с SQLi"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "174963fbe4364ada",
@@ -178,6 +182,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f1989f7e2131828c",
-  "lastOpenFiles": []
+  "active": "5cd4e119e682761f",
+  "lastOpenFiles": [
+    "SQL(i)/Знакомство с SQLi.md",
+    "SQL(i)"
+  ]
 }
