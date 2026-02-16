@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Знакомство с SQLi"
             }
+          },
+          {
+            "id": "7b2f6155c9d2818b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +197,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f1989f7e2131828c",
+  "active": "7b2f6155c9d2818b",
   "lastOpenFiles": [
-    "README.md",
     "SQL(i)/Знакомство с SQLi.md",
+    "Без названия.md",
+    "SQL(i)/Парочку типов SQL",
+    "README.md",
     "SQL(i)"
   ]
 }
