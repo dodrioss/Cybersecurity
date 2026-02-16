@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "SQL(i)/Знакомство с SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Знакомство с SQLi"
+            }
+          },
+          {
+            "id": "d019504e51f7cabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL(i)/Примеры/Извлечение скрытых данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Извлечение скрытых данных"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,11 +211,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "7b2f6155c9d2818b",
+  "active": "5cd4e119e682761f",
   "lastOpenFiles": [
+    "Без названия 1.md",
     "SQL(i)/Знакомство с SQLi.md",
-    "Без названия.md",
-    "SQL(i)/Парочку типов SQL",
+    "SQL(i)/Примеры/Извлечение скрытых данных.md",
+    "SQL(i)/Примеры",
     "README.md",
     "SQL(i)"
   ]
