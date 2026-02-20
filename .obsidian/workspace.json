@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
+                "file": "Web/CSRF/Виды/XMLHttpRequest CSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Знакомство с Cross-site request forgery (CSRF)"
+              "title": "XMLHttpRequest CSRF"
             }
           }
         ],
@@ -227,11 +227,11 @@
   },
   "active": "1fcd319560e13dec",
   "lastOpenFiles": [
+    "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
     "Web/CSRF/Способы защиты от CSRF.md",
     "Web/CSRF/Возможные уязвимые сценарии.md",
     "Web/CSRF/Виды/На основе флэш-памяти CSRF.md",
     "Web/CSRF/Виды/XMLHttpRequest CSRF.md",
-    "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
     "Web/CSRF/Виды",
     "Скрины",
     "Скрины/Pasted image 20260220182908.png",
