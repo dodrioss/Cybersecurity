@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шпаргалка по SQL-инъекциям.md",
+                "file": "SQL(i)/Шпаргалка по SQL-инъекциям.md",
                 "mode": "source",
                 "source": false
               },
@@ -281,10 +281,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ea9b8b1f25e6ea10",
+  "active": "5cd4e119e682761f",
   "lastOpenFiles": [
     "SQL(i)/Типы/Слепая SQL-инъекция.md",
-    "Шпаргалка по SQL-инъекциям.md",
+    "SQL(i)/Шпаргалка по SQL-инъекциям.md",
     "SQL(i)/Типы/SQL-инъекции, UNION-атаки.md",
     "Сети/Протоколы/Протоколы.md",
     "Сети/Атаки на протоколы/VТР-иныкции.md",
