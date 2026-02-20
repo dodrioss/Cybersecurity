@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Способы защиты от CSRF.md",
+                "file": "Web/CSRF/Способы защиты от CSRF.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,13 +182,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9e3fcd658416c9eb",
+  "active": "5cd4e119e682761f",
   "lastOpenFiles": [
+    "Скрины",
+    "Скрины/Pasted image 20260220182908.png",
     "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
     "Web/SQL(i)/Шпаргалка по SQL-инъекциям.md",
     "Web/SQL(i)/Типы/Слепая SQL-инъекция.md",
     "Сети/Протоколы/Протоколы.md",
-    "Способы защиты от CSRF.md",
+    "Web/CSRF/Способы защиты от CSRF.md",
     "Web",
     "Web/CSRF",
     "Web/SQL(i)/Типы/SQL-инъекции, UNION-атаки.md",
