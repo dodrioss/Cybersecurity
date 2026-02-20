@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSRF/Возможные уязвимые сценарии.md",
+                "file": "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Возможные уязвимые сценарии"
+              "title": "Знакомство с Cross-site request forgery (CSRF)"
             }
           }
         ],
@@ -225,14 +225,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5cd4e119e682761f",
+  "active": "1fcd319560e13dec",
   "lastOpenFiles": [
-    "Web/CSRF/Виды/На основе флэш-памяти CSRF.md",
+    "Web/CSRF/Способы защиты от CSRF.md",
     "Web/CSRF/Возможные уязвимые сценарии.md",
+    "Web/CSRF/Виды/На основе флэш-памяти CSRF.md",
     "Web/CSRF/Виды/XMLHttpRequest CSRF.md",
     "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
     "Web/CSRF/Виды",
-    "Web/CSRF/Способы защиты от CSRF.md",
     "Скрины",
     "Скрины/Pasted image 20260220182908.png",
     "Web/SQL(i)/Шпаргалка по SQL-инъекциям.md",
