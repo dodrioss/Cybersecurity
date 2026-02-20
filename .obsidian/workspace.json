@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "174963fbe4364ada",
@@ -281,7 +282,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5cd4e119e682761f",
+  "active": "ea9b8b1f25e6ea10",
   "lastOpenFiles": [
     "SQL(i)/Типы/Слепая SQL-инъекция.md",
     "SQL(i)/Шпаргалка по SQL-инъекциям.md",
