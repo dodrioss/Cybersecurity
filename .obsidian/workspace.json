@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XMLHttpRequest CSRF.md",
+                "file": "Web/CSRF/Виды/XMLHttpRequest CSRF.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,7 +200,7 @@
   "active": "1d57668af59ac26a",
   "lastOpenFiles": [
     "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
-    "XMLHttpRequest CSRF.md",
+    "Web/CSRF/Виды/XMLHttpRequest CSRF.md",
     "Web/CSRF/Виды",
     "Web/CSRF/Способы защиты от CSRF.md",
     "Скрины",
