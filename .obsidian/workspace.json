@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "На основе флэш-памяти CSRF"
             }
+          },
+          {
+            "id": "1fcd319560e13dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/CSRF/Возможные уязвимые сценарии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Возможные уязвимые сценарии"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,10 +225,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e80e8c65b31edc89",
+  "active": "5cd4e119e682761f",
   "lastOpenFiles": [
-    "Web/CSRF/Виды/XMLHttpRequest CSRF.md",
     "Web/CSRF/Виды/На основе флэш-памяти CSRF.md",
+    "Web/CSRF/Возможные уязвимые сценарии.md",
+    "Web/CSRF/Виды/XMLHttpRequest CSRF.md",
     "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
     "Web/CSRF/Виды",
     "Web/CSRF/Способы защиты от CSRF.md",
