@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Протоколы"
             }
+          },
+          {
+            "id": "9bb00d5b73ec0c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL(i)/Типы/Слепая SQL-инъекция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Слепая SQL-инъекция"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,13 +267,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "bb0e182dfa156a00",
+  "active": "9bb00d5b73ec0c55",
   "lastOpenFiles": [
-    "Сети/Атаки на протоколы/VТР-иныкции.md",
+    "SQL(i)/Типы/SQL-инъекции, UNION-атаки.md",
+    "SQL(i)/Типы/Слепая SQL-инъекция.md",
     "Сети/Протоколы/Протоколы.md",
+    "Сети/Атаки на протоколы/VТР-иныкции.md",
     "Сети/Атаки на протоколы",
     "Сети/Протоколы",
-    "SQL(i)/Типы/SQL-инъекции, UNION-атаки.md",
     "Сети",
     "SQL(i)/Примеры/Извлечение данных из других таблиц базы данных.md",
     "SQL(i)/Примеры/Извлечение скрытых данных.md",
