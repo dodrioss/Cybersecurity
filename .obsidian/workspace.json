@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSRF/Способы защиты от CSRF.md",
+                "file": "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Способы защиты от CSRF"
+              "title": "Знакомство с Cross-site request forgery (CSRF)"
             }
           }
         ]
@@ -182,15 +182,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5cd4e119e682761f",
+  "active": "9e3fcd658416c9eb",
   "lastOpenFiles": [
+    "Web/CSRF/Способы защиты от CSRF.md",
     "Скрины",
     "Скрины/Pasted image 20260220182908.png",
     "Web/CSRF/Знакомство с Cross-site request forgery (CSRF).md",
     "Web/SQL(i)/Шпаргалка по SQL-инъекциям.md",
     "Web/SQL(i)/Типы/Слепая SQL-инъекция.md",
     "Сети/Протоколы/Протоколы.md",
-    "Web/CSRF/Способы защиты от CSRF.md",
     "Web",
     "Web/CSRF",
     "Web/SQL(i)/Типы/SQL-инъекции, UNION-атаки.md",
